@@ -7,7 +7,8 @@ Software architecture
 (Presentation)
 - Presentation.Api
    -WebAPI
-      
+  
+(Application)    
 - Application
    - Commands
    - Query
