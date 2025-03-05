@@ -20,8 +20,8 @@ Software architecture
    - Interfaces
    - Services
 (Infra)
-Infra.Data.Efcore
-Infra.Services.Email
-Infra.Services.Notification
-Infra.Auth 
-Infra.Logs
+- Infra.Data.Efcore
+- Infra.Services.Email
+- Infra.Services.Notification
+- Infra.Auth 
+- Infra.Logs
