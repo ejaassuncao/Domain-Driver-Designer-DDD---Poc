@@ -6,7 +6,7 @@ Software architecture
 
 (Presentation)
 - Presentation.Api
-   -WebAPI
+   - WebAPI
   
 (Application)    
 - Application
