@@ -13,6 +13,8 @@ Software architecture
    - Query
    - DTOs
    - Mapper
+
+ (Domain)
 - Domain 
    - Entity
    - Valitation
