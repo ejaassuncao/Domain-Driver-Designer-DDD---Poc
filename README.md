@@ -19,8 +19,7 @@ Software architecture
    - Exception
    - Interfaces
    - Services
- 
- (Infra)
+(Infra)
 Infra.Data.Efcore
 Infra.Services.Email
 Infra.Services.Notification
