@@ -22,7 +22,13 @@ Software architecture
    - Exception
    - Interfaces
    - Services
-
+   - Helpers
+   - Aggregates
+   - ValueObjects
+   - Events
+   - Factories
+   - Policies
+   
 (Infra)
 - Infra.Data.Efcore
 - Infra.Services.Email
